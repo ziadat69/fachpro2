@@ -1,0 +1,45 @@
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 19
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 38
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 62
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 79
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 101
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 123
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 144
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 168
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 178
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 199
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 220
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 243
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 258
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 278
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 302

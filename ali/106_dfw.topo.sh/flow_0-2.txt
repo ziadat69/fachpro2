@@ -1,0 +1,103 @@
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 30
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 45
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 66
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 91
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 110
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 130
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 151
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 170
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 185
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 206
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 228
+nuttcp-t: v6.1.2: Error: connect: Connection refused
+errno=111
+RTY: 240
+   17.8125 MB /   1.00 sec =  148.7151 Mbps
+   17.8125 MB /   1.00 sec =  149.9881 Mbps
+   17.9375 MB /   1.00 sec =  150.0435 Mbps
+   17.7500 MB /   1.00 sec =  149.0240 Mbps
+   17.8750 MB /   1.00 sec =  150.1202 Mbps
+   18.0000 MB /   1.00 sec =  150.6994 Mbps
+   17.9375 MB /   1.00 sec =  150.7207 Mbps
+   17.8750 MB /   1.00 sec =  149.5380 Mbps
+   17.8125 MB /   1.00 sec =  150.0256 Mbps
+   18.0000 MB /   1.01 sec =  150.0862 Mbps
+   17.7500 MB /   0.99 sec =  149.7466 Mbps
+   17.8750 MB /   1.00 sec =  149.9795 Mbps
+   17.9375 MB /   1.00 sec =  149.9792 Mbps
+   18.3750 MB /   1.02 sec =  150.4891 Mbps
+   17.4375 MB /   0.97 sec =  150.0607 Mbps
+   17.8125 MB /   1.00 sec =  149.4675 Mbps
+   17.8750 MB /   1.00 sec =  150.0022 Mbps
+   17.8750 MB /   1.00 sec =  150.0101 Mbps
+   17.8750 MB /   1.00 sec =  149.9908 Mbps
+   17.8750 MB /   1.00 sec =  150.0926 Mbps
+   17.8750 MB /   1.00 sec =  149.9150 Mbps
+   17.8750 MB /   1.00 sec =  149.9999 Mbps
+   17.9375 MB /   1.00 sec =  150.4698 Mbps
+   17.8125 MB /   1.00 sec =  149.5272 Mbps
+   17.9375 MB /   1.00 sec =  150.2318 Mbps
+   17.8750 MB /   1.00 sec =  149.7584 Mbps
+   17.8750 MB /   1.00 sec =  150.0690 Mbps
+   17.8750 MB /   1.00 sec =  149.9419 Mbps
+   17.9375 MB /   1.00 sec =  150.4233 Mbps
+   17.8125 MB /   1.00 sec =  149.5760 Mbps
+   17.9375 MB /   1.00 sec =  150.3191 Mbps
+   17.8125 MB /   1.00 sec =  149.6656 Mbps
+   17.8750 MB /   1.00 sec =  150.0038 Mbps
+   18.0000 MB /   1.00 sec =  150.2703 Mbps
+   17.9375 MB /   1.00 sec =  150.1900 Mbps
+   17.8125 MB /   1.00 sec =  149.6614 Mbps
+   17.8125 MB /   1.00 sec =  149.8791 Mbps
+   17.8750 MB /   1.00 sec =  150.1838 Mbps
+   17.8750 MB /   1.00 sec =  149.8240 Mbps
+   17.9375 MB /   1.00 sec =  149.9935 Mbps
+   17.8125 MB /   1.00 sec =  150.0080 Mbps
+   17.8750 MB /   1.00 sec =  149.9887 Mbps
+   17.8750 MB /   1.00 sec =  150.0119 Mbps
+   18.0000 MB /   1.01 sec =  150.0428 Mbps
+   17.8125 MB /   0.99 sec =  150.2593 Mbps
+   17.8750 MB /   1.00 sec =  149.6962 Mbps
+   17.8750 MB /   1.00 sec =  150.0037 Mbps
+   17.8750 MB /   1.00 sec =  149.9722 Mbps
+   17.8750 MB /   1.00 sec =  150.1661 Mbps
+   17.8750 MB /   1.00 sec =  149.8502 Mbps
+   17.9375 MB /   1.00 sec =  150.0918 Mbps
+   17.8750 MB /   1.00 sec =  149.9092 Mbps
+   17.8125 MB /   1.00 sec =  150.0011 Mbps
+   18.1875 MB /   1.02 sec =  149.9631 Mbps
+   17.6250 MB /   0.99 sec =  150.0502 Mbps
+   17.8750 MB /   1.00 sec =  150.2975 Mbps
+   17.8750 MB /   1.00 sec =  149.6983 Mbps
+   17.8750 MB /   1.00 sec =  150.2338 Mbps
+   18.0000 MB /   1.01 sec =  150.2348 Mbps
+   17.8125 MB /   1.00 sec =  148.7443 Mbps
+   17.8750 MB /   0.99 sec =  150.9169 Mbps
+   17.8750 MB /   1.00 sec =  149.8689 Mbps
+   17.8750 MB /   1.00 sec =  150.0356 Mbps
+   17.8750 MB /   1.00 sec =  149.9792 Mbps
+   17.8750 MB /   1.00 sec =  150.1704 Mbps
+   17.8750 MB /   1.00 sec =  149.8273 Mbps
+   17.8750 MB /   1.00 sec =  149.9980 Mbps
