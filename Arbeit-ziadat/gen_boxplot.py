@@ -59,6 +59,7 @@ def box_plot_all_top(df_plot, x_label="Model\n", y_label="\nMax. Normalized Link
 		y_line.set_color('white')
 	plt.xlim(1)
 	plt.xticks(rotation=0)
+	plt.yticks([0, 1, 2], ['Joint', 'Weights', 'invers'])
 	plt.savefig(file_name.replace(" ", ""), bbox_inches="tight", format='pdf')
 	plt.close()
 	print(file_name)
